@@ -1,0 +1,8 @@
+hi, this is my first version of project
+i am gonna start my journey with git.
+
+
+hey, now i have commited first now i need to commit second
+
+changed for learning purpose
+
