@@ -6,5 +6,7 @@ hey, now i have commited first now i need to commit second
 
 changed for learning purpose
 
-hi, this one i have changed after pushing it to github
+hi, this one i have changed after pushing it to github.
+
+hi i wann learn restore method by pushing to git
 
